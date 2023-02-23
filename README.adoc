@@ -1,11 +1,14 @@
 = Compiler et construire ses applications avec maven
-Jean-Michel Bruel <jbruel@gmail.com>
+KHALIL Ahmad <ahmad31100@live.fr>
 v1, 2022-02-20 : Initial draft
-:icons: font
-:diagrams: .
-:experimental:
-:classroom-link: https://classroom.github.com/a/gWXnQmIT
-:imagesdir: images
+
+// PARTIE Modifiée :
+
+1. Exécuter la commande mvn clean pour tout nettoyer.
+2. Exécuter la commande mvn compile pour compiler
+3. Pour obtenir un fichier jar (exécutable), exécutez la commande mvn package, un fichier .jar sera crée
+
+Sujet du TP : 
 
 // Useful definitions
 :eclipse: http://www.eclipse.org[Eclipse]
